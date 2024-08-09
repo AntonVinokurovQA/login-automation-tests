@@ -1,0 +1,1 @@
+# Example of automated test for login page
